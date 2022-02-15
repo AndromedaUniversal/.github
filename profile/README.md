@@ -1,1 +1,1 @@
-![AndromedaUniversal](profile/SettingsBanner.png) 
+![AndromedaUniversal](SettingsBanner.png) 
