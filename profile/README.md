@@ -1,1 +1,1 @@
-![AndromedaUniversal]("https://github.com/AndromedaUniversal/.github/blob/main/profile/SettingsBanner.png") 
+![AndromedaUniversal]("https://raw.githubusercontent.com/AndromedaUniversal/.github/main/profile/SettingsBanner.png") 
